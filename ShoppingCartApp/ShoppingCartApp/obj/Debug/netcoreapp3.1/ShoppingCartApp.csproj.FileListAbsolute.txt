@@ -1,0 +1,13 @@
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.csprojAssemblyReference.cache
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.AssemblyInfoInputs.cache
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.AssemblyInfo.cs
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.exe
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.deps.json
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.runtimeconfig.json
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.runtimeconfig.dev.json
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.dll
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\bin\Debug\netcoreapp3.1\ShoppingCartApp.pdb
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.dll
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.pdb
+D:\DotNetCoreApps\SCApp2\ShoppingCartApp\ShoppingCartApp\obj\Debug\netcoreapp3.1\ShoppingCartApp.genruntimeconfig.cache
